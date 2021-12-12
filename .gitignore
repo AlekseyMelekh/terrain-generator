@@ -1,0 +1,10 @@
+.idea
+.vs
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Content
+Plugins
+Config
+*.sln
